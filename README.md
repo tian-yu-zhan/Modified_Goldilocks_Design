@@ -1,5 +1,5 @@
 # Modified_Goldilocks_Design
-R code to replicate simulation studies and the case study in the MGD paper
+R code to replicate simulation studies and the case study in the manuscript "Modified Goldilocks Design with strict type I error control in confirmatory clinical trials"
 
 Table 2 and 3: source goldilocks_binary_ppn.R
 
