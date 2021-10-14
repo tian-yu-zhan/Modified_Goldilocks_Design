@@ -1,6 +1,8 @@
 # Modified_Goldilocks_Design
 R code to replicate simulation studies and the case study in the manuscript "Modified Goldilocks Design with strict type I error control in confirmatory clinical trials"
 
+https://www.tandfonline.com/doi/full/10.1080/10543406.2020.1744620
+
 Table 2 and 3: source goldilocks_binary_ppn.R
 
 Table 4 and Supplemental Materials Table 4: source goldilocks_case.R
